@@ -1,0 +1,4 @@
+1|NXB Trẻ|161B Lý Chính Thắng, Q3, TP.HCM|02839391234|nxbtre@nxbtre.com.vn
+2|NXB Văn học|51 Trần Hưng Đạo, Hoàn Kiếm, HN|02438246229|nxbvanhoc@vanhoc.vn
+3|NXB Kim Đồng|55 Quang Trung, Hai Bà Trưng, HN|02439425217|kimdong@kimdong.com.vn
+4|NXB Thế giới|46 Trần Hưng Đạo, Hoàn Kiếm, HN|02438254838|tg@thegioi.com.vn

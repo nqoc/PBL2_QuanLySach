@@ -1,3 +1,0 @@
-1|Trần Văn A|0909123456|12 Nguyễn Huệ, Q1, TP.HCM|100
-2|Lê Thị B|0918234567|45 Lê Lợi, Q1, TP.HCM|50
-3|Phạm Văn C|0934567890|78 Trần Hưng Đạo, Q5, TP.HCM|200

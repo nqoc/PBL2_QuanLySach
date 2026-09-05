@@ -1,0 +1,5 @@
+1|Nguyễn Nhật Ánh|Nhà văn nổi tiếng với truyện thiếu nhi
+2|Paulo Coelho|Tiểu thuyết gia người Brazil
+3|J.K. Rowling|Tác giả của Harry Potter
+4|Yuval Noah Harari|Sử gia và tác giả người Israel
+5|Nam Cao|Tác giả có nhiều tác phẩm nổi tiếng ở Việt Nam 

@@ -42,10 +42,43 @@ class Sach {
                 const string& viTriKe ,
                 const string& moTa 
         );
+        virtual ~Sach() ; 
+        // Getter
+        string getMaSach()  const  {return maSach ; } 
+        string getTenSach() const  {return tenSach ; } 
+        string getMaTacGia() const  {return maTacGia ; } 
+        string getMaTheLoai()  const {return maTheLoai ;  } 
+        string getMaNXB() const  {return maNXB  ; } 
+        int getNamXuatBan() const  {return namXuatBan ; }     
+        double getGiaNhap() const  {return giaNhap ;  } 
+        double getGiaBan()  const {return giaBan ; }   
+        int getSoLuongTon() const  {return soLuongTon  ; } 
+        string getViTriKe() const  {return viTriKe ;  } 
+        string getMoTa()  const {return moTa ; } 
         
-        
-    
+        // Setter 
+        bool setMaSach( const string& s) ; 
+        bool setTenSach( const string& s) ; 
+        bool setMaTacGia( const string& s) ; 
+        bool setMaTheLoai( const string& s) ; 
+        bool setMaNXB( const string& s) ; 
+        bool setNamXuatBan( int a ) ;     
+        bool setGiaNhap ( double a ) ; 
+        bool setGiaBan ( double a) ; 
+        bool setSoLuongTon ( int a ) ; 
+        bool setViTriKe( const string& s) ; 
+        bool setMoTa( const string& s) ;
 
+        bool   nhapThemKho(int sl);        
+        bool   banBotKho(int sl);        
+        double giaTriTonKho() const;       
+        double loiNhuanMotCuon() const;
+        
+
+        void nhap();
+        void xuatDong() const;
+        void xuatChiTiet() const;
+        static void inTieuDeBang();
 
 };
 
